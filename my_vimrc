@@ -1,0 +1,21 @@
+badd $MYVIMRC
+badd ~/.bashrc
+
+set nocompatible
+set hlsearch
+set bs=2
+set tabstop=2
+set shiftwidth=2
+set background=light
+set autoindent
+set expandtab
+set nowrap
+set mouse=a
+set ruler
+set number
+" colorscheme solarized
+hi Search guifg=#ff00ff
+set guifont=Monospace\ 8
+set autochdir
+set printfont:courier:h6
+set statusline=%f\ [%n]
