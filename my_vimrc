@@ -13,7 +13,9 @@ set nowrap
 set mouse=a
 set ruler
 set number
+colorscheme solarized
 hi Search guifg=#ff00ff
 set guifont=Monospace\ 8
 set autochdir
 set printfont:courier:h6
+syntax enable
