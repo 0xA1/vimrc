@@ -19,3 +19,4 @@ set guifont=Monospace\ 8
 set autochdir
 set printfont:courier:h6
 syntax enable
+set listchars=trail:*
