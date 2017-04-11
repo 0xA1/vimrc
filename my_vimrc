@@ -6,6 +6,7 @@ set hlsearch
 set bs=2
 set tabstop=2
 set shiftwidth=2
+set colorcolumn=72
 set background=light
 set autoindent
 set expandtab
@@ -15,7 +16,7 @@ set ruler
 set number
 colorscheme solarized
 hi Search guifg=#ff00ff
-set guifont=Monospace\ 8
+set guifont=Hack\ 9
 set autochdir
 set printfont:courier:h6
 syntax enable
