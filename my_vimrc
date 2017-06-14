@@ -15,9 +15,6 @@ set mouse=a
 set ruler
 set number
 colorscheme vividchalk
-hi Search guifg=#000000
-hi Search guibg=#ff00ff
-hi Search 
 set guifont=Hack\ 9
 set autochdir
 set printfont:courier:h6
@@ -25,3 +22,5 @@ syntax enable
 set listchars=trail:*
 set guioptions-=m
 set guioptions-=T
+hi Search guifg=#ffffff
+hi Search guibg=#ff00ff
