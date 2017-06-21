@@ -4,8 +4,8 @@ badd ~/.bashrc
 set nocompatible
 set hlsearch
 set bs=2
-set tabstop=2
-set shiftwidth=2
+set tabstop=3
+set shiftwidth=3
 set colorcolumn=72
 set background=dark
 set autoindent
@@ -14,7 +14,7 @@ set nowrap
 set mouse=a
 set ruler
 set number
-colorscheme vividchalk
+colorscheme shadesofamber
 set guifont=Hack\ 9
 set autochdir
 set printfont:courier:h6
@@ -24,3 +24,4 @@ set guioptions-=m
 set guioptions-=T
 hi Search guifg=#ffffff
 hi Search guibg=#ff00ff
+set ic
