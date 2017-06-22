@@ -25,3 +25,4 @@ set guioptions-=T
 hi Search guifg=#ffffff
 hi Search guibg=#ff00ff
 set ic
+set statusline=%<%f\ \[%n\]\ %h%m%r%=%-14.(%l,%c%V%)\ %P
