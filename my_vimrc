@@ -14,7 +14,7 @@ set nowrap
 set mouse=a
 set ruler
 set number
-colorscheme shadesofamber
+colorscheme vividchalk
 set guifont=Hack\ 9
 set autochdir
 set printfont:courier:h6
@@ -26,3 +26,4 @@ hi Search guifg=#ffffff
 hi Search guibg=#ff00ff
 set ic
 set statusline=%<%f\ \[%n\]\ %h%m%r%=%-14.(%l,%c%V%)\ %P
+autocmd InsertEnter,InsertLeave * set cul!
